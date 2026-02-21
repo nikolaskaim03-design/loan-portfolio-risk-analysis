@@ -70,6 +70,12 @@ I used:
 - measures for total and percentage values
 - bar charts and donut charts
 - slicers for risk category and purpose
+- Basic DAX measures to calculate:
+- total loan exposure
+- high risk loan exposure
+- percentage of high risk loans
+
+These measures were used for KPI cards and charts in the dashboard.
 Power BI helped me turn data into clear visuals.
 
 ## Key Results and Conclusions
