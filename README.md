@@ -88,3 +88,4 @@ This project helped me understand the importance of risk concentration and portf
 - `credit_risk_analysis.sql` – SQL queries and risk logic
 - `Loan_Risk_Analysis.xlsx` – Excel analysis and pivot tables
 - `Loan_Analysis_Report.pbix` – Power BI dashboard
+## Dashboard Preview
