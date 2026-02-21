@@ -89,3 +89,4 @@ This project helped me understand the importance of risk concentration and portf
 - `Loan_Risk_Analysis.xlsx` – Excel analysis and pivot tables
 - `Loan_Analysis_Report.pbix` – Power BI dashboard
 ## Dashboard Preview
+![Dashboard](screenshot_dashboard.png)
