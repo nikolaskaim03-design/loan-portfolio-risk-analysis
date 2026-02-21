@@ -1,6 +1,6 @@
 # Loan Portfolio Risk Analysis
 ## Why I did this project
-I created this project to learn how loan data is analyzed in practice and to improve my skills in SQL, Excel and Power BI
+I created this project to learn how loan data is analyzed in practice and to improve my skills in SQL, Excel and Power BI.
 I am a third year Economics student and this project helped me understand:
 - how credit risk is classified
 - how loan portfolios are analyzed
