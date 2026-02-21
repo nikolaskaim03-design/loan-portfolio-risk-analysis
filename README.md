@@ -75,7 +75,7 @@ Power BI helped me turn data into clear visuals.
 ## Key Results and Conclusions
 From the analysis, I found that:
 - almost 50% of the loan portfolio is High Risk
-- some loan purposes (like new car* and business loans) have higher risk
+- some loan purposes (like new car and business loans) have higher risk
 - risk is not equally distributed across the portfolio
 
 This project helped me understand the importance of risk concentration and portfolio analysis.
