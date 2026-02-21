@@ -75,7 +75,7 @@ I used:
   2. high risk loan exposure
   3. percentage of high risk loans
 
-These measures were used for KPI cards and charts in the dashboard.
+These three measures were used for KPI cards and charts in the dashboard.
 Power BI helped me turn data into clear visuals.
 
 ## Key Results and Conclusions
